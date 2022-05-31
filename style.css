@@ -1,0 +1,19 @@
+bod {
+    background: #fafafa;
+}
+
+.dino {
+    width: 60px;
+    height: 60px;
+    background: url(./img/dino.png);
+    position: absolute;
+    bottom: 0;
+}
+
+.cactos {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    bottom: 0;
+    background: url(./img/cactus.png);
+}
